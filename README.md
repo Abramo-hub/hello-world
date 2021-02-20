@@ -1,2 +1,3 @@
 # hello-world
-Following the tradition
+Following the tradition.
+I am just getting into GitHub.
